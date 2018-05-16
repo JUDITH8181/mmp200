@@ -155,3 +155,9 @@ img.logo{
     width:10%;
     height:10%;
 }
+.footlogo{
+/*border:solid pink;*/
+    width: 10%;
+    height: 10%;
+    margin-left: 90%;
+}
