@@ -46,11 +46,15 @@ body {
 /* Center align the text within the three columns below the carousel */
 .marketing .col-lg-4 {
     padding-top: 25px;
-  margin-bottom: 1.5rem;
-  text-align: center;
-        border:solid white;
-    
-  
+    margin-bottom: 1.5rem;
+    text-align: center;
+    border:solid white; 
+}
+.marketing .col-lg-4 p{
+  text-align: left;
+}
+.marketing .col-lg-4 h2{
+  text-align: left;
 }
 .continer.marketing{
  border:solid green;
@@ -60,17 +64,12 @@ body {
 .marketing h2 {
   font-weight: 400;
     margin-top: auto;
-/*    border: solid red;*/
     color:  #E18700;
     
 }
 .marketing .col-lg-4 p {
   margin-right: .75rem;
   margin-left: .75rem;
-    borde
-    
-
-
 }
 
 /* Featurettes
@@ -158,7 +157,6 @@ img.logo{
     height:10%;
 }
 .footlogo{
-/*border:solid pink;*/
     width: 10%;
     height: 10%;
     margin-left: 90%;
