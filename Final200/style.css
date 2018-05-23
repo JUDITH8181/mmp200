@@ -118,11 +118,11 @@ body {
     padding-top:7px;
     padding-bottom: 20px;
 }
-/*
-a:hover { 
+
+a.nav-link: hover { 
     background-color: slategray;
 }
-*/
+
 
 button.btn.btn-danger{
    background-color: orange;
